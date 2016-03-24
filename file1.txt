@@ -1,1 +1,2 @@
-first file
+add content to file1.txt
+This is the first input for the file1.txt
