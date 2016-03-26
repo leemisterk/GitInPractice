@@ -3,5 +3,4 @@ this is content for chapter 1
 extra2
 update file2 3
 
-chapter 2
 
