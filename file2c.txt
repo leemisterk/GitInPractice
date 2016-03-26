@@ -3,6 +3,11 @@ this is content for chapter 1
 extra2
 update file2 3
 
+<<<<<<< HEAD
 chapter 3
 
 this is content for chapter 3
+=======
+chpater 2
+this is the content for chapter 2
+>>>>>>> separate-file2
